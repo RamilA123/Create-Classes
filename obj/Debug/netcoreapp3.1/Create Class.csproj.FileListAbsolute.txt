@@ -1,0 +1,14 @@
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\bin\Debug\netcoreapp3.1\Create Class.exe
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\bin\Debug\netcoreapp3.1\Create Class.deps.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\bin\Debug\netcoreapp3.1\Create Class.runtimeconfig.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\bin\Debug\netcoreapp3.1\Create Class.runtimeconfig.dev.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\bin\Debug\netcoreapp3.1\Create Class.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\bin\Debug\netcoreapp3.1\Create Class.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\obj\Debug\netcoreapp3.1\Create Class.csproj.AssemblyReference.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\obj\Debug\netcoreapp3.1\Create Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\obj\Debug\netcoreapp3.1\Create Class.AssemblyInfoInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\obj\Debug\netcoreapp3.1\Create Class.AssemblyInfo.cs
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\obj\Debug\netcoreapp3.1\Create Class.csproj.CoreCompileInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\obj\Debug\netcoreapp3.1\Create Class.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\obj\Debug\netcoreapp3.1\Create Class.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Create Class\obj\Debug\netcoreapp3.1\Create Class.genruntimeconfig.cache
